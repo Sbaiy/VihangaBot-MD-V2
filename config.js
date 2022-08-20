@@ -18,11 +18,11 @@ global.APIKeys = {
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.REACT_NUMBER = '212706265133' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
+global.owner = ['212706265133',''] //මෙතන number එක.
+global.premium = ['212706265133','212706265133'] //මෙතන number එක.
 global.botname = 'casper' //මෙතන නම.
 global.ownername = 'casper' //මෙතන නම.
 global.ownername = 'achraf sbaiy' //මෙතන නම.
@@ -30,7 +30,7 @@ global.group1 = 'https://chat.whatsapp.com/JbQmeDrWNe31c1ILbe0L0i' //මෙත�
 global.group2 = 'https://chat.whatsapp.com/JbQmeDrWNe31c1ILbe0L0i' //මෙතන grouplink එක.
 global.packname = 'casper' //මෙතන නම.
 global.cap = '*By achraf sbaiy*' //මෙතන නම.
-global.img = 'https://ibb.co/NsK62CH' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
+global.img = 'https://drive.google.com/file/d/1HWtxN7NsSqdqRpCqwcLIStfsKVkj05sE/view?usp=drivesdk' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://youtube.com/channel/UCoJuoLW1HWHQb9le8K7vkyw' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
@@ -58,7 +58,7 @@ global.sessionName = 'session' //මෙතන මාරු කරන්න එ�
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
 global.sp = '⭔' //මෙතන emoji එකක්.
 global.mess = {
-    success: '*හරි*',
+    success: '*success*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
@@ -67,7 +67,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*ටිකක් ඉන්න ⏳*',
+    wait: '*wait... ⏳*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
@@ -82,8 +82,8 @@ global.limitawal = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./lib/20220602_094206.png')  
-global.bc = fs.readFileSync('./lib/20220602_094206.png')
+global.thumb = fs.readFileSync('https://drive.google.com/file/d/1HWtxN7NsSqdqRpCqwcLIStfsKVkj05sE/view?usp=drivesdk')  
+global.bc = fs.readFileSync('https://drive.google.com/file/d/1HWtxN7NsSqdqRpCqwcLIStfsKVkj05sE/view?usp=drivesdk')
 global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
 global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
 
